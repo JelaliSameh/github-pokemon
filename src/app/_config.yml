@@ -1,0 +1,7 @@
+
+title: "Mon Site"
+description: "C'est un site statique généré par Jekyll."
+baseurl: "" 
+url: "https://jelalisameh.github.io/github-pokemon" 
+markdown: kramdown
+theme: minima 
