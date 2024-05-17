@@ -44,7 +44,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/pokemon-app",
-            "baseHref": "/github-pokemon/",
+            "baseHref": "/pokemon/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
